@@ -1,0 +1,58 @@
+.typingchallenge-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+.timer-container {
+  margin: 16px;
+}
+.timer {
+  text-align: center;
+  font-weight: 600;
+  font-size: 25px;
+  margin: 0;
+}
+.info {
+  margin: -1px;
+  color: #f83232;
+  font-size: 19px;
+  font-weight: bolder;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  width: 80%;
+}
+.textarea-left,
+.textarea-right {
+  display: flex;
+  width: 50%;
+  flex-grow: 1;
+}
+
+.textarea {
+  text-align: left;
+  height: 350px;
+  flex-grow: 1;
+  width: 100%;
+  padding: 10px;
+  line-height: 18px;
+  overflow: scroll;
+  flex-wrap: wrap;
+  border: 1px solid;
+  border-radius: 3px;
+}
+
+.textarea::-webkit-scrollbar {
+  display: none;
+}
+
+.text-paragraph {
+  background: #ccbab4;
+  font-size: 15px;
+  padding: 10px;
+}

@@ -1,0 +1,18 @@
+.challenge-container {
+  min-height: 90vh;
+  flex-direction: column;
+  align-items: center;
+  margin: 24px 0;
+}
+
+.challenge-header {
+  text-align: center;
+  font-size: 3vw;
+  font-family: cursive;
+}
+
+@media (max-width: 800px) {
+  .challenge-header {
+    font-size: 5vw;
+  }
+}

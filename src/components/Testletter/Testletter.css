@@ -1,0 +1,9 @@
+.test-letter-correct{
+    color: rgb(25, 66, 25);
+}
+.test-letter-incorrect{
+    color: rgb(228, 63, 63);
+}   
+.test-letter-notattempted{
+    color: rgb(230, 162, 36);
+}

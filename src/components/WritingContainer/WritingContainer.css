@@ -1,0 +1,18 @@
+.writing-container {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+.top-headers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.type-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}

@@ -1,0 +1,38 @@
+.nav-container {
+  display: flex;
+  height: 7vh;
+  align-items: center;
+  margin: 0;
+  justify-content: space-between;
+  background: linear-gradient(243deg, #5f555573, transparent);
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 5vh;
+  margin-left: 0.7vh;
+  border-radius: 5px;
+  width: 5vh;
+}
+
+.logo-name {
+  font-family: "Oswald", sans-serif;
+  font-size: 4vh;
+  padding: 0px 10px;
+}
+
+.nav-right {
+  padding-right: 15px;
+  padding-top: 3px;
+}
+
+.linkedin {
+  height: 5vh;
+  margin-left: 0.7vh;
+  background: white;
+  border-radius: 8px;
+}

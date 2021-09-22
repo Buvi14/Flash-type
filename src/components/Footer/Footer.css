@@ -1,0 +1,15 @@
+.footer-container {
+  height: 4vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.github-link {
+  color: white;
+  text-decoration: none;
+}
+
+.icon-git {
+    font-size: 18px;
+}

@@ -1,0 +1,52 @@
+.landing-container {
+  background: linear-gradient(48deg, #9e9e9e, #000000f2);
+  display: flex;
+  justify-content: space-between;
+  min-height: 90vh;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.landing-left {
+  padding-left: 3vw;
+}
+.typing-text {
+  border-radius: 4px;
+  width: 40vw;
+}
+
+.landing-right {
+  padding-right: 15vw;
+}
+
+.typing-header {
+  font-size: 4vw;
+  font-family: cursive;
+}
+
+.typewriting-container {
+  font-size: 3vw;
+  font-family: cursive;
+}
+
+@media (max-width: 800px) {
+  .landing-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .typing-text {
+    width: 80vw;
+  }
+  .landing-right {
+    padding-bottom: 5vh;
+    margin: 0;
+  }
+  .typing-header {
+    font-size: 8vw;
+    font-family: cursive;
+  }
+  .typewriting-container {
+    font-size: 8vw;
+    font-family: cursive;
+  }
+}
