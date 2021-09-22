@@ -14,8 +14,6 @@ To Start the App by using npm start
 
 Start debugging the app and change according to your concerns
 
-image:https://img.shields.io/github/issues/Buvi14/Flash-type?style=plastic["GitHub issues",link="https://github.com/Buvi14/Flash-type/issues"]
-
 Using the NPM package for typewriter effect
 
 https://www.npmjs.com/package/typewriter-effect
