@@ -6,14 +6,15 @@ To Start the App by using npm start
 
 # Steps to run the project
 
-Using git clone to clone the project
+    1. Using git clone to clone the project
 
-Using npm install to install the dependencies
+    2. Using npm install to install the dependencies
 
-Using npm start to start the project
+    3. Using npm start to start the project
 
 Start debugging the app and change according to your concerns
 
+image:https://img.shields.io/github/issues/Buvi14/Flash-type?style=plastic["GitHub issues",link="https://github.com/Buvi14/Flash-type/issues"]
 
 Using the NPM package for typewriter effect
 
